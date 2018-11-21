@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsQA", "ToolsQA\ToolsQA.csproj", "{E94BE361-A6EB-4E59-81F4-B7F0BC9932FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94BE361-A6EB-4E59-81F4-B7F0BC9932FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94BE361-A6EB-4E59-81F4-B7F0BC9932FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94BE361-A6EB-4E59-81F4-B7F0BC9932FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94BE361-A6EB-4E59-81F4-B7F0BC9932FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C6EB915-8742-4E4C-8A25-2AD38981ECC4}
+	EndGlobalSection
+EndGlobal
